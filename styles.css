@@ -18,6 +18,10 @@
   --font-numeral: "Cinzel", Georgia, serif;
 }
 
+* {
+  font-weight: bold !important;
+}
+
 *,
 *::before,
 *::after {
