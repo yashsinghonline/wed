@@ -446,7 +446,7 @@
         bell.setAttribute("aria-label", playing ? "Stop background music" : "Play background music");
       }
       if (icon) {
-        icon.src = "/assets/kalyana-mandapam/km-audio-" + (playing ? "on" : "off") + ".png";
+        icon.src = "km-audio-off.png";
       }
     }
 
